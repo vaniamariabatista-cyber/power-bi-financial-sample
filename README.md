@@ -69,15 +69,15 @@ Pontos trabalhados nesta página:
 ```
 power-bi-financial-sample/
 ├── README.md
+├── Desafio_Power_BI-Financial_Sample (3).pptx
+├── Desafio_Power_BI-Financial_Sample.pdf
 ├── dataset/
 │   └── Financial Sample.xlsx
-├── relatorio/
-│   ├── Desafio_Power_BI-Financial_Sample.pptx
-│   └── Desafio_Power_BI-Financial_Sample.pdf
 └── imagens/
     ├── pagina1-produtos-segmento.png
     ├── pagina2-paises-lucro.png
     └── pagina3-mapas-lucro.png
+
 ```
 
 ## Aprendizados
